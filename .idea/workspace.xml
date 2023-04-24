@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="793dc308-8278-43d4-bbe6-be6c9c87e21b" name="Changes" comment="Proyecto inicial de prueba&#10;&#10;OACS_dev">
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Main.java" afterDir="false" />
+    <list default="true" id="793dc308-8278-43d4-bbe6-be6c9c87e21b" name="Changes" comment="Impresión de mensaje como colaborador&#10;&#10;OACS_dev">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,7 +46,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1682363796009</updated>
-      <workItem from="1682363797087" duration="630000" />
+      <workItem from="1682363797087" duration="1587000" />
     </task>
     <task id="LOCAL-00001" summary="Proyecto inicial de prueba&#10;&#10;OACS_dev">
       <created>1682364137380</created>
@@ -54,7 +55,14 @@
       <option name="project" value="LOCAL" />
       <updated>1682364137380</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Impresión de mensaje como colaborador&#10;&#10;OACS_dev">
+      <created>1682364516000</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1682364516000</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -73,6 +81,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Proyecto inicial de prueba&#10;&#10;OACS_dev" />
-    <option name="LAST_COMMIT_MESSAGE" value="Proyecto inicial de prueba&#10;&#10;OACS_dev" />
+    <MESSAGE value="Impresión de mensaje como colaborador&#10;&#10;OACS_dev" />
+    <option name="LAST_COMMIT_MESSAGE" value="Impresión de mensaje como colaborador&#10;&#10;OACS_dev" />
   </component>
 </project>
